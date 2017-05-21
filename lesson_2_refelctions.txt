@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates the backgrounds workings for git to work, it creates the
+ .git folder and the appropriate files required to manage version 
+ control. Without it, git would not consider the folder available for
+ verion control.
