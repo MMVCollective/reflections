@@ -1,0 +1,12 @@
+Lesson 1 showed that comparing 2 files can be a lengthy process if
+undertaken manually. Automatic/computerised methods are faster but also
+provide an almost 100% level of accuracy (not accounting for bugs/errors 
+in the software)
+
+How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
+
+You can determin what worked and what didin't, and instead of trying to reverse
+changes you can simply revert to the old version. It alos allows you to see
+what you thinking was when writing a partivular line of code (though good 
+commenting proctices should take care of that!)
